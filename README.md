@@ -39,7 +39,7 @@ I recently completed General Assembly’s Software Engineering Immersive, where 
 
 ## 📫 Let’s Connect
 
-- 💼 [LinkedIn](www.linkedin.com/in/timothy-lawler-87bb88b9) 
+- 💼 [LinkedIn](https://www.linkedin.com/in/timothy-lawler-87bb88b9) 
 - 📬 Email: Timothy.Lawler1986@outlook.com  
 - 🌐 Portfolio: *(Link your portfolio if it's live)*
 
