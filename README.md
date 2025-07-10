@@ -13,7 +13,7 @@ I recently completed General Assembly’s Software Engineering Immersive, where 
 
 ## 🛠️ Tech Stack
 
-- **Languages:** JavaScript, HTML, CSS
+- **Languages:** JavaScript, HTML, CSS, Python, Django, SQL
 - **Frameworks/Libraries:** React, Node.js, Express
 - **Databases:** MongoDB, PostgreSQL
 - **Tools:** Git, GitHub, VS Code, Postman, Heroku
