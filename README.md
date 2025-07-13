@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Timothy Lawler
 
 🎯 **Full-Stack Software Engineer** | 🪖 Army Veteran | 🛡️ Former Global Security Specialist  
-🔧 JavaScript | React | Node.js | Express | MongoDB | HTML/CSS | Git/GitHub
+🔧 JavaScript | React | Node.js | Express | MongoDB | HTML/CSS | Git/GitHub | Python/Django
 
 ---
 
